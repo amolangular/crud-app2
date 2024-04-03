@@ -9,5 +9,5 @@ import { Component } from '@angular/core';
 })
 export class HomeComponent {
 
-  message:string="Welcome";
+  message:string="Welcome to Velocity";
 }
